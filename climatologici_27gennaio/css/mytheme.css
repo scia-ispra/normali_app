@@ -1,0 +1,213 @@
+div.row.intestazione{
+  background: #7295c0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 30px;
+}
+
+.titolo, .sottotitolo{
+  font-size: 2.4rem;
+  color: white;
+  font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 900;
+}
+
+.sottotitolo{
+  font-size: 1rem;
+}
+
+.btn-info {
+	color: #fff;
+	background-color: #7295c0;
+	border-color: #7295c0;
+	font-weight: 400;
+}
+
+.btn:hover {
+ color:#000;
+ text-decoration: none;
+ background-color: #F4EFC4; /*#dad190;*/
+}
+
+.btn-info:not(:disabled):not(.disabled):active, .btn-info.active:not(:disabled):not(.disabled), .show > .btn-info.dropdown-toggle, .in > .btn-info.dropdown-toggle {
+	color: #000;
+	background-color: #F4EFC4; /*  */
+	border-color:  #F4EFC4;; /* #F4EFC4; */
+}
+
+.bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  color: #fff;
+  background: #7295c0;
+}
+
+.bg-primary {
+  background-color: #90c7d5 !important;
+  color: #5a5a5a;
+}
+
+
+a{
+  color: rgb(95, 105, 125); 
+}
+
+a:hover{
+  color: #7295c0;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs > li > a.active{
+  color: #7295c0;
+}
+
+
+
+
+#elabora{
+  background-color: #7295c0;
+  border-color: #7295c0;
+  color: #FFF;
+  font-weight: 400;
+}
+
+#elabora:focus,
+#elabora.focus {
+ outline:0;
+ box-shadow:0 0 0 .1rem #7295c0;
+}
+
+
+.riga-estrai{
+  margin-bottom: 30px;
+}
+
+
+/* csv button */
+
+#csv {
+	margin: 20px;
+	margin-left: 0px;
+	margin-bottom: 40px;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+}
+
+
+/* info per popup */
+
+div.pull-right{
+  display: inline !important;
+}
+
+
+/* margintop per ogni panel */
+
+.tab-pane{
+  margin-top: 25px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.tab-pane div{
+  padding-right: 0%;
+  line-height: 1.5rem;
+}
+
+.tab-pane div h4{
+  margin-top: 30px;
+}
+
+
+/* modal */
+
+.modal-header{
+  background: #FA8F37;
+}
+
+
+,.modal-footer, .modal-body{
+  background: #FFF;
+}
+
+
+
+/* pulsante inline nel testo */
+
+.text-button{
+  display: inline-block;
+  color: white; 
+  font-weight: 900; 
+  background: #7295c0;
+  margin: 0; 
+  padding: 10px; 
+  border-radius: 5px;" 
+}
+
+.map-button{
+  display: inline-block;
+  color: #000; 
+  font-weight: 900; 
+}
+
+
+/* colori con cui vengono evidenziati i nomi degli indicatori e il testo nella scheda sugli aggiornamenti dell'app */
+
+.hot{
+  font-weight: 400; 
+  color: #dc3545;
+}
+
+
+.cold{
+  font-weight: 400; 
+  color: #315f86;
+}
+
+
+.rain{
+  font-weight: 400; 
+  color: #51678f;
+}
+
+
+/* titoli delle domande nella pagina introduzione */
+
+h4{
+  color: #51678f;  
+}
+
+
+/* mylinks */
+
+.mylink{
+  font-weight: 400; 
+  color: #dc3545;
+}
+
+
+.mylink:hover {
+  font-weight: 400; 
+  color: #dc3545;
+  text-decoration: underline;
+}
+
+.mylink:focus {
+  font-weight: 400; 
+  color: #dc3545;
+  text-decoration: underline;
+}
+
+.mylink:active {
+  font-weight: 400; 
+  color: #dc3545;
+  text-decoration: underline;
+}
+
+
+/* dimensione testo temperatura/precipitazione */
+.bootstrap-switch-handle-off{
+  font-size: 12px !important;
+}
+
+.bootstrap-switch-handle-on{
+  font-size: 14px !important;
+}

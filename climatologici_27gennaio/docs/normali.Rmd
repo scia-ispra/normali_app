@@ -1,0 +1,28 @@
+---
+title: 
+output: html_fragment
+---
+
+<div>
+
+<p>Questa app consente di visualizzare e scaricare i valori normali climatici mensili, stagionali ed annuali di indicatori climatici di temperatura e precipitazione. Cliccando sul pulsante "Visualizza i dati" e' possibile visualizzare la tabella con i valori normali calcolati, la mappa delle stazioni climatologiche e i grafici delle distribuzioni mensili, stagionali e annuali.</p>
+
+<h4>Cosa sono i valori climatici normali?</h4>
+  
+ <p>I valori climatici normali sono i <strong>valori medi</strong>, di una variabile climatica in un periodo di riferimento sufficientemente lungo.
+  L'organizzazione meteorologica mondiale (OMM) (in inglese <i>World Meteorological Organization</i> - <a href="https://public.wmo.int/en" alt="sito WMO" target="_blank" class="mylink">WMO</a>) ha definito i normali climatici nella prima meta' del ventesimo secolo con l'obiettivo di consentire il confronto tra le osservazioni di tutto il mondo,
+  assicurando la coerenza fra le informazioni dei diversi servizi meteorologici. Inoltre ha fissato a <strong>30 anni</strong> la durata del periodo di riferimento, da aggiornare ogni 10 anni.</p>
+
+<h4>Perché si calcolano i valori climatici normali?</h4>
+  
+<p>Per due finalita' principali:
+  
+  - come <strong>valori di riferimento</strong> rispetto ai quali confrontare le osservazioni e calcolare le serie di anomalie (scostamenti dai valori normali)
+  - per fornire <strong>valori medi rappresentativi</strong> del clima attuale o del passato recente in un determinato luogo.</p>
+
+<h4>Come si calcolano i valori climatici normali?</h4>
+  
+<p>A partire dai <strong>dati giornalieri</strong>, vengono calcolati i valori medi o cumulati, mensili, stagionali e annuali, per le stazioni con almeno 24 anni di dati nel trentennio climatologico di riferimento.
+Per maggiori informazioni si veda il volume "<i><a href="https://library.wmo.int/doc_num.php?explnum_id=4166" target="_blank" alt="Volume WMO" class="mylink">WMO Guidelines on the Calculation of
+Climate Normals</a></i>" (WMO, 2017) e appena disponibile il NOSTRO NUOVO REPORT "I normali climatici in Italia" (da scaricare).</p>
+</div>

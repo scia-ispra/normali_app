@@ -1,0 +1,11 @@
+name: docs
+title:
+username:
+account: guidoispra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5862749
+bundleId: 5689165
+url: https://guidoispra.shinyapps.io/docs/
+when: 1647391619.20288
+lastSyncTime: 1647391619.20292
